@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = brancasdc@gmail.com
+	name = Branca Scannapieco Della Coletta
